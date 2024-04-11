@@ -34,7 +34,7 @@ Business Questions
 Discoveries
 1. Male employees outnumber female and non-conforming employees within the company.
 2. Gender representation is balanced across departments, with a slight predominance of male employees overall.
-3. The age group of employees between 21 and 30 years old constitutes the smallest portion of the workforce, while those aged 31 to 50 are the most numerous. Surprisingly, employees aged 50 and above comprise the largest demographic within the company.
+3. data shows that employees aged 31-40 constitute the largest portion of the workforce, followed closely by those aged 41-50. Employees aged 21-30 form the next significant portion, while employees aged 50 and above comprise the smallest demographic within the company.
 4. Most employees in the company are Caucasian, followed by individuals of mixed race, black, Asian, Hispanic, and Native American backgrounds.
 5. The average tenure of employment among employees is 7 years.
 6. Auditing experiences the highest turnover rate, trailed by Legal, Research & Development, and Training departments. Conversely, Business Development & Marketing departments exhibit the lowest turnover rates.
