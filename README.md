@@ -8,7 +8,8 @@ This was done on MSSQL server 2019 involving:
   Handling missing values | 
   Data cleaning and analysis |
 # Data Visualization:
-![Uploading Screenshot 2024-04-12 012449.png…]()
+
+![Uploading Screenshot 2024-04-11 233130.png…]()
 
 
 
