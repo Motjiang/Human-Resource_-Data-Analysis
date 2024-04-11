@@ -7,4 +7,4 @@ This was done on MSSQL server 2019 involving:
   Data loading & inspection | 
   Handling missing values | 
   Data cleaning and analysis |
-#Data Visualization:
+# Data Visualization:
