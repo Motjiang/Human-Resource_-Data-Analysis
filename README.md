@@ -18,3 +18,10 @@ Business Questions
 3.	What is the racial makeup of the company?
 4.	How many employees in each department work remotely?
 5.	What is the geographic distribution of employees across states?
+
+Discoveries
+1. Male employees outnumber female and non-conforming employees within the company.
+2. Gender representation is balanced across departments, with a slight predominance of male employees overall.
+3. Most employees in the company are Caucasian, followed by individuals of mixed race, black, Asian, Hispanic, and Native American backgrounds.
+4. Approximately 25% of employees work remotely.
+5. The largest concentration of employees is in Ohio (14,788), followed by Pennsylvania (930), Illinois (730), Indiana (572), Michigan (569), Kentucky (375), and Wisconsin (321).
