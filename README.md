@@ -4,6 +4,6 @@ This project uses  MSSQL server 2019 and Power BI to analyze HR data, presenting
 # Data Cleaning & Analysis:
 This was done on MSSQL server 2019 involving
 
-Data loading & inspection
-Handling missing values
-Data cleaning and analysis
+  Data loading & inspection
+  Handling missing values
+  Data cleaning and analysis
