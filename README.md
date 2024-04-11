@@ -11,6 +11,7 @@ This was done on MSSQL server 2019 involving:
 ![Uploading Screenshot 2024-04-12 012449.png…]()
 
 
+
 # Data Exploration
 
 Business Questions
