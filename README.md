@@ -9,8 +9,7 @@ This was done on MSSQL server 2019 involving:
   Data cleaning and analysis |
 # Data Visualization:
 
-![Uploading Screenshot 2024-04-11 233130.png…]()
-
+![Screenshot 2024-04-12 012449](https://github.com/Motjiang/Human-Resource_-Data-Analysis/assets/114883452/5e494334-6a76-48b1-a77a-a4630f0b681b)
 
 
 # Data Exploration
