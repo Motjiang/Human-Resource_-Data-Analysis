@@ -11,6 +11,9 @@ This was done on MSSQL server 2019 involving:
 
 ![Screenshot 2024-04-12 012449](https://github.com/Motjiang/Human-Resource_-Data-Analysis/assets/114883452/5e494334-6a76-48b1-a77a-a4630f0b681b)
 
+![Screenshot 2024-04-12 012935](https://github.com/Motjiang/Human-Resource_-Data-Analysis/assets/114883452/e5503ddb-867e-41fe-be2d-102a1ef4d931)
+
+
 
 # Data Exploration
 
