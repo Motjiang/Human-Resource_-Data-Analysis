@@ -8,7 +8,8 @@ This was done on MSSQL server 2019 involving:
   Handling missing values | 
   Data cleaning and analysis |
 # Data Visualization:
-file:///C:/Users/motji/AppData/Local/Temp/Power%20BI%20Desktop/print-job-a0f617a2-8701-46ed-9b0d-993b92a218b1/Human%20Resource%20Report.pdf
+![Uploading Screenshot 2024-04-12 012449.png…]()
+
 
 # Data Exploration
 
