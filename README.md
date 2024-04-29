@@ -1,7 +1,10 @@
-# Human-Resource_-Data-Analysis
-This project uses  MSSQL server 2019 and Power BI to analyze HR data, presenting key metrics like turnover and recruitment efficacy through visually engaging dashboards, aiding informed decision-making.
+# Human Resource Analysis
 
-# Data Cleaning & Analysis:
+
+## Project Overview
+Based on the insights gathered from the Human Resource dataset, the project aims to provide a comprehensive overview of the company's workforce demographics, tenure, turnover rates, geographical distribution, job titles, and hiring trends. 
+
+## Data Sources
 This was done on MSSQL server 2019 involving: 
 
   Data loading & inspection | 
