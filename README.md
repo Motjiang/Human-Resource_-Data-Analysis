@@ -21,8 +21,10 @@ HR Data : This primary dataset used for this analysis is the "HR Data.csv" file,
 - I performed the following tasks:
   
   1. Data loading & inspection  
-  2. Handling missing values  
-  3. Data cleaning and analysis
+  2. Handling missing values
+  3. Handling null value  
+  4. Data cleaning and analysis
+     
 
 
 ### Exploratory Data Analysis
