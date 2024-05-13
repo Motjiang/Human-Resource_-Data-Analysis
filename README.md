@@ -22,7 +22,7 @@ HR Data : This primary dataset used for this analysis is the "HR Data.csv" file,
   
   1. Data loading & inspection  
   2. Handling missing values
-  3. Handling null value  
+  3. Handling null values
   4. Data cleaning and analysis
      
 
